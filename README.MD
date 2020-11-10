@@ -19,6 +19,7 @@ NAVIGATION
 
 TEXT EDIT
 - **sout** - System.out.println
+- **psvm** - Public static void main
 - **ctrl + enter**: generated code snippet -  when we are in editor
 - **cmd + alt + v**: extract strings to variables.
 - **cmd + alt + n**: reverse inline string from variables.
