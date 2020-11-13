@@ -32,10 +32,12 @@ TEXT EDIT
 - **cmd + n**: Generate code from template - constructor, getters and setters, tests
 - **shift + command + t**: generate a test
 
-DEBUGGING
+DEBUGGING & RUN
 - **cmd + f8**: add break point
 - **f7**: step into
 - **f8**: step over
+- **shift + crtl + R**: run a main class
+- **crtl + alt + R**: list all the class that can be executed.
 
 GIT
 - **ctrl + v**: open vcs menu
