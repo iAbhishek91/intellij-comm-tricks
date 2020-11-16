@@ -27,7 +27,7 @@ TEXT EDIT
 - **cmd + alt + p**: extract to parameter - changes local vars to parameter. select any local variable, and press the short cuts
 - **alt + up arrow/down arrow**: extend & shrink selection (selection + extract string to variable)
 - **ctrl+ semicolon**: activate ace jump.
-- **cmd + y** delete line
+- **cmd + delete** delete line
 - **cmd + d**: duplicate line
 - **cmd + n**: Generate code from template - constructor, getters and setters, tests
 - **shift + command + t**: generate a test
