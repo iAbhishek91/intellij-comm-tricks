@@ -31,6 +31,7 @@ TEXT EDIT
 - **cmd + d**: duplicate line
 - **cmd + n**: Generate code from template - constructor, getters and setters, tests
 - **shift + command + t**: generate a test
+- **cmd + shift + f7** to search a specific string, like all the return statement
 
 DEBUGGING & RUN
 - **cmd + f8**: add break point
