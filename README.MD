@@ -20,7 +20,8 @@ NAVIGATION
 TEXT EDIT
 - **sout** - System.out.println
 - **psvm** - Public static void main
-- **psfs** - Public static final Stting // use to create constants
+- **psfs** - Public static final String // use to create constants
+- **psfi** - Public static final int // use to create constants
 - **ctrl + enter**: generated code snippet -  when we are in editor
 - **cmd + alt + v**: extract strings to variables.
 - **cmd + alt + n**: reverse inline string from variables.
